@@ -4,7 +4,7 @@ A web app that shows inputted health data in easy to view ways, like graphs.
 
 ## Usage/Examples
 
-## Frontend
+### Frontend
 
 Install packages and run dev script.
 
@@ -13,7 +13,7 @@ npm i
 npm run dev
 ```
 
-## Backend
+### Backend
 
 Install packages and run dev script.
 
